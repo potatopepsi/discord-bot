@@ -1,0 +1,12 @@
+!store 
+-> buy option 
+-> sell option
+
+!backpack
+-> equip options
+->unequip
+
+!trade
+give or trade
+currency or item
+

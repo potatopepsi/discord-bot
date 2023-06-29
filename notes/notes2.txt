@@ -1,0 +1,17 @@
+weapons
+- Leveling should create a damage buff on any weapons
+
+How to do Dailies?
+- Gold?
+
+Rewards
+- Once a week[for what]
+
+Game is played in three rounds of damage + healing
+Everyone has a base of 100hp
+
+How is mob going to be summoned by hp?
+Randomization factor * (Number of people, level, etc)?
+
+
+Loot - Based on Difficulty Level + Randomization

@@ -1,0 +1,392 @@
+{
+    "weapons":[
+        {
+            "Name": "Longsword",
+            "Damage": 10,
+            "Tier": 1,
+            "Type": "Sword"
+        },
+        {
+            "Name": "Frost Sword",
+            "Damage": 15,
+            "Tier": 2,
+            "Type": "Sword"
+        },
+        {
+            "Name": "Fire Sword",
+            "Damage": 15,
+            "Tier": 2,
+            "Type": "Sword"
+        },
+        {
+            "Name": "Dao",
+            "Damage": 17,
+            "Tier": 2,
+            "Type": "Sword"
+        },
+        {
+            "Name": "Lightsaber",
+            "Damage": 38,
+            "Tier": 4,
+            "Type": "Sword"
+        },
+        {
+            "Name": "Buster Sword",
+            "Damage": 42,
+            "Tier": 4,
+            "Type": "Sword"
+        },
+        {
+            "Name": "Katana",
+            "Damage": 29,
+            "Tier": 3,
+            "Type": "Sword"
+        },
+        {
+            "Name": "Excalubir",
+            "Damage": 50,
+            "Tier": 5,
+            "Type": "Sword"
+        },
+        {
+            "Name": "Dagger",
+            "Damage": 1,
+            "Tier": 1,
+            "Type": "Blade"
+        },
+        {
+            "Name": "Soul Reaping Dagger",
+            "Damage": 47,
+            "Tier": 4,
+            "Type": "Blade"
+        },
+        {
+            "Name": "Throwing Knives",
+            "Damage": 35,
+            "Tier": 3,
+            "Type": "Blade"
+        },
+        {
+            "Name": "Double-Edged Spear",
+            "Damage": 38,
+            "Tier": 3,
+            "Type": "Spear"
+        },
+        {
+            "Name": "Basic Spear",
+            "Damage": 10,
+            "Tier": 1,
+            "Type": "Spear"
+        },
+        {
+            "Name": "Icy Spear",
+            "Damage": 46,
+            "Tier": 4,
+            "Type": "Spear"
+        },
+        {
+            "Name": "Soul-Bladed Spear",
+            "Damage": 50,
+            "Tier": 5,
+            "Type": "Spear"
+        },
+        {
+            "Name": "Club",
+            "Damage": 10,
+            "Tier": 1,
+            "Type": "Wood"
+        },
+        {
+            "Name": "Stick",
+            "Damage": 10,
+            "Tier": 1,
+            "Type": "Wood"
+        },
+        {
+            "Name": "Baseball Bat",
+            "Damage": 14,
+            "Tier": 1,
+            "Type": "Wood"
+        },
+        {
+            "Name": "Crossbow",
+            "Damage": 32,
+            "Tier": 3,
+            "Type": "Bow"
+        },
+        {
+            "Name": "Multishot Crossbow",
+            "Damage": 41,
+            "Tier": 4,
+            "Type": "Bow"
+        },
+        {
+            "Name": "Bow and Arrow",
+            "Damage": 25,
+            "Tier": 2,
+            "Type": "Bow"
+        },
+        {
+            "Name": "Flute",
+            "Damage": 1,
+            "Tier": 1,
+            "Type": "Instrument"
+        },
+        {
+            "Name": "Flute",
+            "Damage": 32,
+            "Tier": 3,
+            "Type": "Instrument"
+        },
+        {
+            "Name": "Banjo",
+            "Damage": 10,
+            "Tier": 1,
+            "Type": "Instrument"
+        },
+        {
+            "Name": "Wooden Wand",
+            "Damage": 10,
+            "Tier": 1,
+            "Type": "Magic"
+        },
+        {
+            "Name": "Ice Plated Wand",
+            "Damage": 39,
+            "Tier": 4,
+            "Type": "Magic"
+        },
+        {
+            "Name": "Bandage Wrapped Fists",
+            "Damage": 10,
+            "Tier": 1,
+            "Type": "Fists"
+        },
+        {
+            "Name": "Steel Wrapped Fists",
+            "Damage": 28,
+            "Tier": 2,
+            "Type": "Fists"
+        },
+        {
+            "Name": "Frosty Wrapped Fists",
+            "Damage": 43,
+            "Tier": 4,
+            "Type": "Fists"
+        },
+        {
+            "Name": "Soul Wrapped Fists",
+            "Damage": 50,
+            "Tier": 5,
+            "Type": "Fists"
+        }
+
+    ],
+
+    "classes":[
+        {
+            "class": "Warrior"
+        },
+        {
+            "class": "Healer"
+        },
+        {
+            "class": "Mage"
+        },
+        {
+            "class": "Thief"
+        },
+        {
+            "class": "Monk"
+        },
+        {
+            "class": "Lancer"
+        },
+        {
+            "class": "Archer"
+        },
+        {
+            "class": "Berserker"
+        },
+        {
+            "class": "Assassin"
+        }
+
+    ],
+    "head_armor":[
+        {
+            "Name": "Dragon Skin Helmet",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Bandaged Wrapped Helmet",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Kimono Helmet",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Wooden Helmet",
+            "Defense": 10,
+            "Tier": 1
+        },
+        {
+            "Name": "Stone Helmet",
+            "Defense": 20,
+            "Tier": 2
+        },
+        {
+            "Name": "Soul Helmet",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Frost Helmet",
+            "Defense": 40,
+            "Tier": 4
+        }
+        ,
+        {
+            "Name": "Gold Helmet",
+            "Defense": 30,
+            "Tier": 3
+        }
+        
+    ],
+    "body_armor":[
+        {
+            "Name": "Dragon Skin Chestplate",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Bandaged Wrapped Chestplate",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Kimono Chestplate",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Wooden Chestplate",
+            "Defense": 10,
+            "Tier": 1
+        },
+        {
+            "Name": "Stone Chestplate",
+            "Defense": 20,
+            "Tier": 2
+        },
+        {
+            "Name": "Soul Chestplate",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Frost Chestplate",
+            "Defense": 40,
+            "Tier": 4
+        }
+        ,
+        {
+            "Name": "Gold Chestplate",
+            "Defense": 30,
+            "Tier": 3
+        }
+        
+    ],
+    "leg_armor":[
+        {
+            "Name": "Dragon Skin Leggings",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Bandaged Wrapped Leggings",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Kimono Leggings",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Wooden Leggings",
+            "Defense": 10,
+            "Tier": 1
+        },
+        {
+            "Name": "Stone Leggings",
+            "Defense": 20,
+            "Tier": 2
+        },
+        {
+            "Name": "Soul Leggings",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Frost Leggings",
+            "Defense": 40,
+            "Tier": 4
+        }
+        ,
+        {
+            "Name": "Gold Leggings",
+            "Defense": 30,
+            "Tier": 3
+        }
+        
+    ],
+    "boots":[
+        {
+            "Name": "Dragon Skin Boots",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Bandaged Wrapped Boots",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Kimono Boots",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Wooden Boots",
+            "Defense": 10,
+            "Tier": 1
+        },
+        {
+            "Name": "Stone Boots",
+            "Defense": 20,
+            "Tier": 2
+        },
+        {
+            "Name": "Soul Boots",
+            "Defense": 50,
+            "Tier": 5
+        },
+        {
+            "Name": "Frost Boots",
+            "Defense": 40,
+            "Tier": 4
+        }
+        ,
+        {
+            "Name": "Gold Boots",
+            "Defense": 30,
+            "Tier": 3
+        }
+        
+    ]
+}

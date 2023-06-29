@@ -1,0 +1,7 @@
+
+Store:
+
+Potions [As of right now, potions can only be used after fights]
+
+buy and sell diff items
+

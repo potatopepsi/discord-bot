@@ -1,0 +1,34 @@
+[
+    {
+        "user": "sleep",
+        "weapon": {
+            "weapon_name":"sword",
+            "weapon_damage": 20
+        },
+        "armor":{
+            "head": "Bandage Wrapped Head",
+            "body": "Bandage Wrapped Armor",
+            "legs": "Bandage Wrapped Leggings",
+            "boots": "Bandage Wrapped Boots"
+        },
+        "backpack":[],
+        "currency": 0,
+        "level": 1,
+        "exp": 0
+    },
+    {
+        "user": "duckie",
+        "weapon": "sword",
+        "armor":{
+            "head": "Bandage Wrapped Head",
+            "body": "Bandage Wrapped Armor",
+            "legs": "Bandage Wrapped Leggings",
+            "boots": "Bandage Wrapped Boots"
+        },
+        "backpack":[],
+        "currency":0,
+        "level": 1,
+        "exp": 0
+    }
+
+]

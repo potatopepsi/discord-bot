@@ -1,0 +1,28 @@
+After killing a mob, loot function is going to be called.
+
+Loot for Tier 1:
+
+- 100 gold [80% Probability]
+- Tier 1 Weapon [10% Probability]
+- Tier 1 Armor [10% Probability]
+
+Loot for Tier 2:
+
+- 200 gold [82% Probability]
+- Tier 2 Weapon [9% Probability]
+- Tier 2 Armor [9% Probability]
+
+Loot for Tier 3:
+- 300 gold [84% Probability]
+- Tier 3 Weapon [8% Probability]
+- Tier 3 Armor [8% Probability]
+
+Loot for Tier 4:
+- 400 gold [86% Probability]
+- Tier 3 Weapon [7% Probability]
+- Tier 3 Armor [7% Probability]
+
+Loot for Tier 5:
+- 500 gold [90% Probability]
+- Tier 3 Weapon [5% Probability]
+- Tier 3 Armor [5% Probability]

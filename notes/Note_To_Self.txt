@@ -1,0 +1,16 @@
+
+!tradeinfo
+get that to work as well
+
+FIX UP INVENTORY -> TO ID (slowly)
+
+
+Every item - including weapons is going to need a price, 
+that way they can be sold, and added into currency
+
+!equips and unequip how am I going to take in Input
+same with !delinventory
+same with buy item and sell item <these needs to be implemented>
+
+
+Eventually potion in backpack needs to be used

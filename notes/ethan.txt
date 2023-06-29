@@ -1,0 +1,42 @@
+I changed how current.json looks. Please refer to the newly edited
+json file to see how you need to parse in attack or defense.
+
+This is going to affect how you take in defense and attacks now because of how
+the new format is listed, sorry.
+
+In order to use current.py 
+import current at the top of mobs.py 
+and call current.<command> 
+The only command you'll probably need is 
+current.clear() after you finish taking in the entire list of attack, defense, or heal.
+You no longer need to account for different spelling, I will handle that 
+as users are typing it in. Sorry again.
+
+
+Winning instances:
+    Call the loot function on everyone.
+    If they get a weapon, or armor - [Remember that armor is split into four names]
+        Then add that to their backpack
+    If they get money, call the addCurrency field in loot.py
+    Increase their exp. This needs to be an exp function to make it easier.
+        ->If they reach xyz exp, level up, and set exp to 0.
+        ->However, if they died - no loot, no extra exp.
+
+Please update your damage from the mob. 
+Firstly, the mob will be taking both magic damage, and attack damage.
+Refer to !classes to see which classes will be doing magic damage, and which will be doing attack damage
+Basically - the mob will have a base hp, with a random magic/attack armor.
+So depending on the info of the person that's attacking it - deal with it accordingly.
+Reminder - current.json will give you who is attacking by id and what they're doing,
+but, you'll need to go into user.json for actual user info.
+
+Also, update how mob attacks. You should be giving users an update after
+each round, the state of their hp.
+Their hp is affected by a random mob damage - the defense of their armor.
+
+
+Loss Instances:
+    Decrease their exp. Their health should be set back to 50.
+
+If the third round is reached, all players should lose.
+Since there are no more rounds.
